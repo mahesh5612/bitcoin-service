@@ -12,7 +12,7 @@ Swagger Documentation: http://localhost:8080/swagger-ui/index.html
 You can use the above swagger UI link to execute the below APIs:
 
 History API
-***********
+-----------
 Example Request:
 {
     "start": "2024-05-04",
@@ -21,5 +21,5 @@ Example Request:
 }
 
 Currencies API
-**************
+--------------
 http://localhost:8080/api/v1/bitcoin/currencies
