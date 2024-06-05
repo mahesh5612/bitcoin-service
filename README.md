@@ -9,6 +9,8 @@ Steps to run the project on local:
 Links:
 Swagger Documentation: http://localhost:8080/swagger-ui/index.html
 
+Flowchart can be found at the root of this project in .pptx file
+
 You can use the above swagger UI link to execute the below APIs:
 
 History API
