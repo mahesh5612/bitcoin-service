@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: bitcoin-service
+
+server:
+  port: 8080
+  
+coinbase:
+  paths:
+    base: https://api.coindesk.com/v1/bpi
+    history: /historical/close.json
+    currencies: /supported-currencies.json
+    currentprice: /currentprice/
